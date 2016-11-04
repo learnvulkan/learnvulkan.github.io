@@ -1,9 +1,9 @@
 ---
 title: About
-keywords: documentation theme, jekyll, technical writers, help authoring tools, hat replacements
+keywords: about
 last_updated: November 4, 2016
 tags: [about]
-summary: "My name is David Seah."
+summary: "Who am I?"
 sidebar: mydoc_sidebar
 permalink: mydoc_about.html
 folder: mydoc
