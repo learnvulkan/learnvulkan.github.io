@@ -1,17 +1,19 @@
 ---
-title: Getting started with the Documentation Theme for Jekyll
-keywords: sample homepage
-tags: [getting_started]
-sidebar: mydoc_sidebar
+title: Introduction
+keywords:Introduction
+tags: [Introduction]
+sidebar: Introduction
 permalink: index.html
-summary: These brief instructions will help you get started quickly with the theme. The other topics in this help provide additional information and detail about working with other aspects of this theme and Jekyll.
+summary: This is an introduction of what this site is about. 
 ---
 
-## Build the Theme
+## Introduction
 
-Follow these instructions to build the theme.
 
-### 1. Download the theme
+
+### Prerequisites
+
+
 
 First download or clone the theme from the [Github repo](https://github.com/tomjohnson1492/documentation-theme-jekyll). Most likely you won't be pulling in updates once you start customizing the theme, so downloading the theme (instead of cloning it) probably makes the most sense. In Github, click the **Clone or download** button, and then click **Download ZIP**.
 
