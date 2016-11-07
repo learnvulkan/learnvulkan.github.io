@@ -1,22 +1,64 @@
 # This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
 
 entries:
-- title: Sidebar
-  levels: one
+- title: sidebar
+  product: Vulkan Tutorial
+  version: 1.0.30.0
   folders:
 
-  - title: Products
-    output: web
+  - title: Introduction
+    output: web, pdf
     folderitems:
-    - title: News
-      url: /news.html
-      output: web
-    - title: Theme instructions
+    
+    - title: Introduction
+      url: /index.html 
+      output: web, pdf
+      type: homepage
+    
+  - title: Get started
+    output: web, pdf
+    folderitems:
+
+    - title: Vulkan
       url: /mydoc_introduction.html
-      output: web
-    - title: Product 1
-      url: /p1_landing_page.html
-      output: web
-    - title: Product 2
-      url: /p2_landing_page.html
-      output: web
+      output: web, pdf
+
+    - title: Creating a window
+      url: /mydoc_supported_features.html
+      output: web, pdf
+
+    - title: Hello World
+      url: /mydoc_support.html
+      output: web, pdf
+      
+    - title: Hello Triangle
+      url: /mydoc_support.html
+      output: web, pdf
+    
+    - title: shaders
+      url: /mydoc_support.html
+      output: web, pdf
+    
+    - title: Transformations
+      url: /mydoc_support.html
+      output: web, pdf
+    
+    - title: Coordinate Systems
+      url: /mydoc_support.html
+      output: web, pdf
+    
+    - title: Camera
+      url: /mydoc_support.html
+      output: web, pdf
+  
+    - title: Review
+      url: /mydoc_support.html
+      output: web, pdf
+
+  - title: About
+    output: web, pdf
+    folderitems:
+
+    - title: About
+      url: /mydoc_about.html
+      output: web, pdf

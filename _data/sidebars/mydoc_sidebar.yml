@@ -6,19 +6,6 @@ entries:
   version: 1.0.30.0
   folders:
 
-  - title:
-    output: pdf
-    type: frontmatter
-    folderitems:
-    - title:
-      url: /titlepage
-      output: pdf
-      type: frontmatter
-    - title:
-      url: /tocpage
-      output: pdf
-      type: frontmatter
-
   - title: Introduction
     output: web, pdf
     folderitems:
@@ -45,28 +32,28 @@ entries:
       output: web, pdf
       
     - title: Hello Triangle
-    url: /mydoc_support.html
-    output: web, pdf
+      url: /mydoc_support.html
+      output: web, pdf
     
     - title: shaders
-    url: /mydoc_support.html
-    output: web, pdf
+      url: /mydoc_support.html
+      output: web, pdf
     
     - title: Transformations
-    url: /mydoc_support.html
-    output: web, pdf
+      url: /mydoc_support.html
+      output: web, pdf
     
     - title: Coordinate Systems
-    url: /mydoc_support.html
-    output: web, pdf
+      url: /mydoc_support.html
+      output: web, pdf
     
     - title: Camera
-    url: /mydoc_support.html
-    output: web, pdf
+      url: /mydoc_support.html
+      output: web, pdf
   
     - title: Review
-    url: /mydoc_support.html
-    output: web, pdf
+      url: /mydoc_support.html
+      output: web, pdf
 
   - title: About
     output: web, pdf
@@ -203,7 +190,7 @@ entries:
 
 #    - title: Syntax highlighting
 #      url: /mydoc_syntax_highlighting.html
-#      output: web, pdf
+#      output: web, pdfs
 
 #    - title: Workflow maps
 #      url: /mydoc_workflow_maps.html
